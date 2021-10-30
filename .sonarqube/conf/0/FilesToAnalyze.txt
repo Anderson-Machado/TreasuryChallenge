@@ -1,0 +1,14 @@
+﻿C:\Projetos.Net\TreasuryChallenge\src\Application\Configurations\FileConfigurations.cs
+C:\Projetos.Net\TreasuryChallenge\src\Application\Controller\WriteFileController.cs
+C:\Projetos.Net\TreasuryChallenge\src\Application\Domain\Interfaces\ITemplateFileServices.cs
+C:\Projetos.Net\TreasuryChallenge\src\Application\Domain\Interfaces\IWriteFileController.cs
+C:\Projetos.Net\TreasuryChallenge\src\Application\Extensions\DependencyInjectionExtensions.cs
+C:\Projetos.Net\TreasuryChallenge\src\Application\Extensions\OptionsExtensions.cs
+C:\Projetos.Net\TreasuryChallenge\src\Application\Program.cs
+C:\Projetos.Net\TreasuryChallenge\src\Application\Services\TemplateFileServices.cs
+C:\Projetos.Net\TreasuryChallenge\src\Application\Utils\CodeGeneratorUtils.cs
+C:\Projetos.Net\TreasuryChallenge\src\Application\Worker\FileWorker.cs
+C:\Users\anderson.silva\.nuget\packages\microsoft.testplatform.testhost\16.5.0\build\netcoreapp2.1\x64\testhost.exe
+C:\Users\anderson.silva\.nuget\packages\microsoft.testplatform.testhost\16.5.0\build\netcoreapp2.1\x64\testhost.dll
+C:\Projetos.Net\TreasuryChallenge\src\Application\aleatory-file.txt
+C:\Projetos.Net\TreasuryChallenge\src\Application\appsettings.json
